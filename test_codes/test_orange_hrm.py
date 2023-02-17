@@ -104,6 +104,3 @@ class Test_Orange_hrm:
         else:
             print("failure: Cannot able to delete employee")
 
-    
-#########comment for reference
-
