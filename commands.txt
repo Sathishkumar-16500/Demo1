@@ -1,0 +1,1 @@
+pytest -v -s --capture=sys --html=D:\Sathish\guvi\project_1\Reports\Orange_hrm_add_employee.html test_orange_hrm.py::Test_Orange_hrm::test_add_new_user
